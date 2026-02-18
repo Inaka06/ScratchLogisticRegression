@@ -94,8 +94,8 @@ Accuracy: 0.84
 ```
 .
 ├── heart.csv
-├── logisticRegression.py
-└── README.md
+└── logisticRegression.py
+
 ```
 
 ---
