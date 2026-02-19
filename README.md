@@ -10,7 +10,7 @@ This project was originally developed some time ago and has only recently been u
 
 This project implements Logistic Regression from scratch using NumPy to predict 10-Year Coronary Heart Disease (CHD) risk from the `heart.csv` dataset.
 
-The objective of this project was to understand the internal mechanics of logistic regression rather than relying on pre-built machine learning libraries. All core components of the model — including gradient descent optimization and loss computation — were implemented manually.
+The objective of this project was to understand the internal mechanics of logistic regression rather than relying on pre-built machine learning libraries. All core components of the model, including gradient descent optimization and loss computation were implemented manually.
 
 ---
 
